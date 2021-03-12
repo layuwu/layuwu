@@ -1,6 +1,6 @@
 <body style="background-color:pink;">
 
-<h1 align="center">Hi 🐰 💖, I'm Yu</h1>
+<h1 align="center">𝑚𝑒𝑜𝑤! 𝐼'𝑚 𝑌𝑢. ໒꒱ </h1>
 <h3 align="center">With an interest in Cybersecurity ✨ </h3>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=layuwu&theme=blue-green)](https://github.com/lawyuwu/github-readme-stats)
@@ -8,9 +8,9 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 
-- 🌱 I’m currently learning **Python**
-- ⚡ Fun fact **Learning Russian**
-- 🔭 I’m currently searching **for a job**
+- ♡ I’m currently learning **Python**
+- ♡ Fun fact: i sprak 4 languages.
+- ♡ I’m currently searching **for a job**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
